@@ -24,19 +24,16 @@ Os projetos presentes neste repositório foram realizados durante o BootCamp Lin
 Abaixo estão os objetivos de cada projeto apresentado neste repositório:
 
 * Projeto1:
-
-** Criação de pastas, usuários e grupos.
-** Adição de usuários aos grupos.
-** Alteração dos donos e grupos de cada diretório.
-** Alteração das permissões de cada diretório.
+	* Criação de pastas, usuários e grupos.
+	* Adição de usuários aos grupos.
+	* Alteração dos donos e grupos de cada diretório.
+	* Alteração das permissões de cada diretório.
 
 * Projeto2:
-
-** AINDA NÃO REALIZADO
+	* AINDA NÃO REALIZADO
 
 * Projeto3:
-
-** AINDA NÃO REALIZADO
+	* AINDA NÃO REALIZADO
 
 ***
 
