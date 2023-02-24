@@ -6,7 +6,7 @@
 # 3 - alterar as permissões de cada diretório
 
 # Iniciando script
-echo "Iniciando script 2"
+echo "INICIANDO SCRIPT 2"
 
 # Adionando os usuários nos grupos
 
@@ -39,3 +39,9 @@ chmod 777 /home/publico
 chmod 770 /home/diretores
 chmod 770 /home/secretariado
 chmod 770 /home/professores
+
+# Finalizando script
+echo "DIRETÓRIOS ALTERADOS"
+echo "DONOS E GRUPOS ALTERADOS"
+echo "PERMISSÕES ALTERADAS"
+echo "FIM DO SCRIPT 2"
