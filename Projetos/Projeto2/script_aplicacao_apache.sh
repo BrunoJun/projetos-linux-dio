@@ -16,3 +16,6 @@ rm -r /tmp/main.zip
 
 # Copiando o arquivo descompactado na pasta padrão do Apache
 cp -R /tmp/linux-site-dio-main/* /var/www/html
+
+# Finalizando Script 2
+echo "FINALIZANDO SCRIPT 2"
