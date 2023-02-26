@@ -30,7 +30,9 @@ Abaixo estão os objetivos de cada projeto apresentado neste repositório:
 	* Alteração das permissões de cada diretório.
 
 * Projeto2:
-	* AINDA NÃO REALIZADO
+	* Atualização dos pacotes presentes no sistema operacional.
+	* Atualização do servidor.
+	* Instalação e utilização do Servidor Web (Apache2) e do pacote de descompactação (Unzip).
 
 * Projeto3:
 	* AINDA NÃO REALIZADO
