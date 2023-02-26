@@ -10,4 +10,4 @@ Neste projeto tem como objetivo automatizar a criação de  diretórios, usuári
 
 Abaixo é possível ver um diagrama referente as pastas e seus usuários.
 
-<img src="organograma_projeto1.jpg">
+<img src="./imgs/organograma_projeto1.jpg">
