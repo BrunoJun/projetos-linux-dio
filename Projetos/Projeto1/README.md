@@ -10,4 +10,4 @@ Neste projeto tem como objetivo automatizar a criação de  diretórios, usuári
 
 Abaixo é possível ver um diagrama referente as pastas e seus usuários.
 
-<img src="./imgs/organograma_projeto1.jpg">
+<img src="https://github.com/BrunoJun/projetos-linux-dio/blob/main/imgs/organograma_projeto1.jpg">
