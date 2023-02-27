@@ -41,7 +41,7 @@ Abaixo estão os objetivos de cada projeto apresentado neste repositório:
 
 ## Status
 
-:white_mark: **FINALIZADO** :white_mark:
+:white_check_mark: **FINALIZADO** :white_check_mark:
 
 ***
 
