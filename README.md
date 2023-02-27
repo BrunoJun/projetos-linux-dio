@@ -35,13 +35,13 @@ Abaixo estão os objetivos de cada projeto apresentado neste repositório:
 	* Instalação e utilização do Servidor Web (Apache2) e do pacote de descompactação (Unzip).
 
 * Projeto3:
-	* AINDA NÃO REALIZADO
+	* LINK PARA O FORK DO PROJETO 3: <a href="https://github.com/BrunoJun/linux-docker-dio">Projeto 3</a>
 
 ***
 
 ## Status
 
-:construction_worker: **EM ANDAMENTO** :construction_worker:
+:white_mark: **FINALIZADO** :white_mark:
 
 ***
 
