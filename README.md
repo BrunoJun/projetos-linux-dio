@@ -1,4 +1,4 @@
-<h1 align="center">:penguin:projetos-linux-dio:penguin:</h1> 
+<h1 align="center">🐧 projetos-linux-dio 🐧</h1> 
 
 ## Descrição
 
